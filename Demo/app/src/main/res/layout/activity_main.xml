@@ -10,5 +10,5 @@
             android:id="@+id/btn_weight"
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="圆形图片"/>
+            android:text="@string/circle_image"/>
 </android.support.constraint.ConstraintLayout>

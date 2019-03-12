@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Demo</string>
-    <string name="circle_image">圆形图片</string>
+    <string name="circle_image">Circle Image</string>
 </resources>
